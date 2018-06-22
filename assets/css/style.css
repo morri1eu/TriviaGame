@@ -1,0 +1,15 @@
+body{
+    background-image: url("../images/free-wallpaper-11.jpg");
+    background-repeat: repeat;
+    text-align: center;
+}
+.container{
+    background-color: lightgray;
+
+}
+.startPage{ 
+    text-align: center;
+}
+button{
+    margin: auto
+}
